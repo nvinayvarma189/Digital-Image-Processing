@@ -1,4 +1,6 @@
 # Image Forgery Detection
+
+![Block Diagram](https://github.com/nvinayvarma189/Digital-Image-Processing/blob/master/DIP_Final_Project/images/Copy-Move.png)
 1. This is the final Project for Digital Image Processing Course. The objective is to detect if an image is tampered(Copy-Move) or not. 
 2. Copy Move Forgery is a major tampering technique where a part of the image is copied and pasted within the image to mislead or cover something. 
 
